@@ -1,17 +1,17 @@
-# usb gadget module configuration for [zero-hid](https://github.com/thewh1teagle/zero-hid)
+# usb gadget module configuration for [Ayanami-Rei-zero-hid-rs](https://github.com/ZiJie-Duan/Ayanami-Rei-zero-hid-rs/)
 
-To be able to use `zero-hid` package
+To be able to use `Ayanami-Rei-zero-hid-rs` package
 it's necessary to change some configuration on the kernel.
 
 ### Install / remove the module
 clone the repo if you haven't yet
 ```bash
-git clone https://github.com/thewh1teagle/zero-hid
+git clone https://github.com/ZiJie-Duan/Ayanami-Rei-zero-hid-rs/
 ```
 
 get into usb_gadget folder
 ```bash
-cd zero-hid/usb_gadget
+cd Ayanami-Rei-zero-hid-rs/usb_gadget
 ```
 Execute `installer`
 ```bash
